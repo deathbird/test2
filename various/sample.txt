@@ -1,0 +1,7 @@
+This is just a sample.
+Every line is a string.
+Except for the next 3.
+100
+200
+300
+Stop.
